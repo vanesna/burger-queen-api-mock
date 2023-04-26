@@ -85,7 +85,7 @@
       "id": 3,
       "name": "Coffee with milk",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/cofee-with-milk.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -93,7 +93,7 @@
       "id": 4,
       "name": "Natural fruit juice",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/juice.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
