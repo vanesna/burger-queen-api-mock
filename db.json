@@ -101,7 +101,7 @@
       "id": 5,
       "name": "Plain burger",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/simple.jpg",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/simple.jpg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -109,7 +109,7 @@
       "id": 6,
       "name": "Double burger",
       "price": 15,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/doble.jpg",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/doble.jpg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -117,7 +117,7 @@
       "id": 7,
       "name": "French fries",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/fries.jpg",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/fries.jpg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -125,7 +125,7 @@
       "id": 8,
       "name": "Onions rings",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/rings.jpg",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/rings.jpg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -133,7 +133,7 @@
       "id": 9,
       "name": "Water 500ml",
       "price": 5,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water500.png",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/water500.png",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -141,7 +141,7 @@
       "id": 10,
       "name": "Water 750ml",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water750.png",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/water750.png",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -149,7 +149,7 @@
       "id": 11,
       "name": "Soda 500ml",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/soda500.png",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/soda500.png",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -157,7 +157,7 @@
       "id": 12,
       "name": "Soda 750ml",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/soda750.png",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/soda750.png",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     }
