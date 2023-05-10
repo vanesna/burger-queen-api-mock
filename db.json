@@ -59,7 +59,7 @@
           }
         }
       ],
-      "status": "delivered",
+      "status": "delivering",
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "2022-03-05 16:00"
     }
@@ -174,6 +174,18 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "waiter@gmail.com",
+      "password": "123456",
+      "role": "waiter",
+      "id": 3
+    },
+    {
+      "email": "chef@gmail.com",
+      "password": "123456",
+      "role": "chef",
+      "id": "4"
     }
   ]
 }
