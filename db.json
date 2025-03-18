@@ -1,87 +1,211 @@
 {
   "orders": [
     {
-      "id": 1,
-      "userId": 1,
-      "client": "Jude Milhon",
+      "id": 1741823920453,
+      "userId": 5,
+      "client": "",
       "products": [
         {
           "qty": 1,
           "product": {
-            "id": 1,
-            "name": "Sandwich de jamón y queso",
-            "price": 1000,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/sandwich.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
+            "name": "Onions rings",
+            "price": 5,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/rings.jpg",
+            "type": "Lunch",
+            "id": 8,
+            "quantity": 1
           }
         },
         {
           "qty": 1,
           "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
+            "id": 12,
+            "name": "Soda 750ml",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/soda750.png",
+            "type": "Lunch",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
           }
         }
       ],
-      "status": "pending",
-      "dataEntry": "2022-03-05 15:00"
+      "status": "delivered",
+      "dataEntry": "05:58 pm",
+      "dateProcessed": "06:02 pm"
     },
     {
-      "id": 2,
-      "userId": 2,
-      "client": "Katie Bouman",
+      "id": 1741824078834,
+      "userId": 5,
+      "client": "",
       "products": [
         {
-          "qty": 2,
+          "qty": 1,
           "product": {
-            "id": 2,
-            "name": "Café americano",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/coffe.jpg",
-            "type": "Desayuno",
-            "dateEntry": "2022-03-05 15:14:10"
+            "name": "Cheese and ham sandwich",
+            "price": "10",
+            "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Breakfast",
+            "id": 1,
+            "quantity": 1
           }
         },
         {
           "qty": 1,
           "product": {
             "id": 3,
-            "name": "Agua 500ml",
-            "price": 500,
-            "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
-            "type": "Almuerzo",
-            "dateEntry": "2022-03-05 15:14:10"
+            "name": "Coffee with milk",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/coffe-with-milk.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
           }
         }
       ],
-      "status": "delivering",
-      "dataEntry": "2022-03-05 15:00",
-      "dateProcessed": "2022-03-05 16:00"
+      "status": "delivered",
+      "dataEntry": "06:01 pm",
+      "dateProcessed": "09:04 pm"
     },
     {
-      "id": 1683848748742,
-      "userId": 2,
-      "client": "hola",
+      "id": 1741835034417,
+      "userId": 6,
+      "client": "",
       "products": [
         {
-          "qty": 4,
+          "qty": 2,
           "product": {
-            "id": 1,
-            "name": "Cheese and ham sandwich",
-            "price": 10,
-            "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10",
-            "quantity": 4
+            "quantity": 2
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "09:03 pm",
+      "dateProcessed": "09:09 pm"
+    },
+    {
+      "id": 1741835326248,
+      "userId": 6,
+      "client": "",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 6,
+            "name": "Double burger",
+            "price": 15,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/doble.jpg",
+            "type": "Lunch",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
           }
         },
         {
-          "qty": 16,
+          "qty": 1,
+          "product": {
+            "name": "French fries",
+            "price": "6",
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/fries.jpg",
+            "type": "Lunch",
+            "id": 7,
+            "quantity": 1
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 10,
+            "name": "Water 750ml",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/water750.png",
+            "type": "Lunch",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "09:08 pm",
+      "dateProcessed": "09:34 am"
+    },
+    {
+      "id": 1741880061584,
+      "userId": 6,
+      "client": "",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "09:34 am",
+      "dateProcessed": "02:16 pm"
+    },
+    {
+      "id": 1741897352687,
+      "userId": 6,
+      "client": "",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 5,
+            "name": "Plain burger",
+            "price": 10,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/simple.jpg",
+            "type": "Lunch",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "name": "French fries",
+            "price": "6",
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/fries.jpg",
+            "type": "Lunch",
+            "id": 7,
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "02:22 pm",
+      "dateProcessed": "02:19 pm"
+    },
+    {
+      "id": 1741983608238,
+      "userId": 6,
+      "client": "",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "name": "Cheese and ham sandwich",
+            "price": "10",
+            "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Breakfast",
+            "id": 1,
+            "quantity": 1
+          }
+        },
+        {
+          "qty": 1,
           "product": {
             "id": 2,
             "name": "American coffee",
@@ -89,23 +213,236 @@
             "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/coffee.png",
             "type": "Breakfast",
             "dateEntry": "2022-03-05 15:14:10",
-            "quantity": 16
+            "quantity": 1
           }
         }
       ],
       "status": "delivering",
-      "dataEntry": "07:45 pm",
-      "dateProcessed": "07:46 pm"
+      "dataEntry": "02:20 pm",
+      "dateProcessed": "03:03 pm"
+    },
+    {
+      "id": 1741983641345,
+      "userId": 6,
+      "client": "",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 6,
+            "name": "Double burger",
+            "price": 15,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/doble.jpg",
+            "type": "Lunch",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "name": "French fries",
+            "price": "6",
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/fries.jpg",
+            "type": "Lunch",
+            "id": 7,
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "02:20 pm",
+      "dateProcessed": "06:20 pm"
+    },
+    {
+      "id": 1741989498389,
+      "userId": 6,
+      "client": "Julia",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 2
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "03:58 pm"
+    },
+    {
+      "id": 1741989727499,
+      "userId": 6,
+      "client": "Oli",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "name": "French fries",
+            "price": "6",
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/fries.jpg",
+            "type": "Lunch",
+            "id": 7,
+            "quantity": 2
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "04:02 pm"
+    },
+    {
+      "id": 1741997989671,
+      "userId": 6,
+      "client": "Nam",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 3,
+            "name": "Coffee with milk",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/coffe-with-milk.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "06:19 pm"
+    },
+    {
+      "id": 1741998048064,
+      "userId": 6,
+      "client": "Jin",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "name": "Cheese and ham sandwich",
+            "price": "10",
+            "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
+            "type": "Breakfast",
+            "id": 1,
+            "quantity": 2
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "06:20 pm"
+    },
+    {
+      "id": 1742001622177,
+      "userId": 6,
+      "client": "JK",
+      "products": [
+        {
+          "qty": 1,
+          "product": {
+            "id": 3,
+            "name": "Coffee with milk",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/coffe-with-milk.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        },
+        {
+          "qty": 1,
+          "product": {
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 1
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "07:20 pm"
+    },
+    {
+      "id": 1742002096864,
+      "userId": 6,
+      "client": "Tae",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "id": 4,
+            "name": "Natural fruit juice",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 2
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "07:28 pm"
+    },
+    {
+      "id": 1742002258493,
+      "userId": 6,
+      "client": "Migue",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "id": 3,
+            "name": "Coffee with milk",
+            "price": 7,
+            "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/coffe-with-milk.png",
+            "type": "Breakfast",
+            "dateEntry": "2022-03-05 15:14:10",
+            "quantity": 2
+          }
+        }
+      ],
+      "status": "pending",
+      "dataEntry": "07:30 pm"
     }
   ],
   "products": [
     {
-      "id": 1,
       "name": "Cheese and ham sandwich",
-      "price": 10,
+      "price": "10",
       "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
       "type": "Breakfast",
-      "dateEntry": "2022-03-05 15:14:10"
+      "id": 1
     },
     {
       "id": 2,
@@ -119,7 +456,7 @@
       "id": 3,
       "name": "Coffee with milk",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/coffe-with-milk.png",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/coffe-with-milk.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -127,7 +464,7 @@
       "id": 4,
       "name": "Natural fruit juice",
       "price": 7,
-      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/juice.png",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/juice.png",
       "type": "Breakfast",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -148,20 +485,18 @@
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
-      "id": 7,
       "name": "French fries",
-      "price": 5,
+      "price": "6",
       "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/fries.jpg",
       "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
+      "id": 7
     },
     {
-      "id": 8,
       "name": "Onions rings",
       "price": 5,
       "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/rings.jpg",
       "type": "Lunch",
-      "dateEntry": "2022-03-05 15:14:10"
+      "id": 8
     },
     {
       "id": 9,
@@ -198,32 +533,27 @@
   ],
   "users": [
     {
-      "email": "anita.borg@systers.xyz",
-      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
-      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/user.png",
-      "role": "admin",
-      "id": 1
-    },
-    {
-      "email": "grace.hopper@systers.xyz",
-      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
-      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/user.png",
-      "role": "admin",
-      "id": 2
+      "email": "chef@gmail.com",
+      "password": "$2a$10$Er.amwAEqNC1SVNFvO1Sv.CMqvLEcHsr9jozoXfTFw54SIOzrkC0.",
+      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "role": "Chef",
+      "id": 4
     },
     {
       "email": "waiter@gmail.com",
-      "password": "123456",
-      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/user.png",
-      "role": "waiter",
-      "id": 3
+      "password": "$2a$10$zjtw2pKkJB.YAxWJDDjzv.TvMvwt4obKBEiUFk4haCqlWPbh7cMdW",
+      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/rings.jpg",
+      "role": "Waiter",
+      "dateEntry": "March 12, 2025 3:54 PM",
+      "id": 5
     },
     {
-      "email": "chef@gmail.com",
-      "password": "123456",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$vWsPSs/L5fRL8Mz1DsRfve/XYtiDrFayM/3bWgUN/fGFII8ybFmDu",
       "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/user.png",
-      "role": "chef",
-      "id": "4"
+      "role": "Admin",
+      "dateEntry": "March 12, 2025 4:03 PM",
+      "id": 6
     }
   ]
 }
